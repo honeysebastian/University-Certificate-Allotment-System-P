@@ -1,0 +1,23 @@
+body
+        {
+            background-image:url("../images/cap_picture.jpg");
+            background-size:cover;
+            background-repeat: no-repeat;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .top{
+            background-color: rgb(243, 239, 239);
+        }
+        h1{
+            background-color: rgb(220,220,220);
+            text-align: center;
+        }
+        .menu{
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+        .submenu{
+            text-size-adjust: 20;
+        }
+
+        
